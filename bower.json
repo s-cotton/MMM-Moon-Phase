@@ -1,0 +1,18 @@
+{
+  "name": "mmm-moon-phase",
+  "description": "MagicMirror module for displaying Moon Phases",
+  "main": "MMM-Moon-Phase.js",
+  "authors": [
+    "Stephen Cotton"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "MagicMirror",
+    "Moon"
+  ],
+  "homepage": "",
+  "private": true,
+  "dependencies": {
+    "js-planet-phase": "git://github.com/codebox/js-planet-phase.git"
+  }
+}
